@@ -1,5 +1,5 @@
-# Algorithm Name
-K-Hash Bloom Filter Memory for RL Agents
+# K-Hash Bloom Filter Memory
+ K-Hash Bloom Filter Memory for RL Agents.
 
 ## Overview
 This algorithm proposes the use of a k-hash bloom filter as a complementary data structure to the replay buffer in reinforcement learning (RL) agents. The k-hash bloom filter allows for efficient long-term storage of past observations and their associated rewards, while also reducing redundant storage of similar experiences.
